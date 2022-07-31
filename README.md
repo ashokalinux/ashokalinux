@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!-- Connect With Me: Linkedin -->
-<a href="https://www.linkedin.com/in/ashok-shelke-12966751" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="heydrdev" width="30" /></a>
+<a href="https://www.linkedin.com/in/ashok-shelke-12966751" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="ashok" width="30" /></a>
 </p>
 
 <!-- About Me -->
