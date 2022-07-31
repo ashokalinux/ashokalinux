@@ -39,6 +39,8 @@ Updating soon..
 
 <!--Honors & awards -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards</b></h2>
+  
+  
 <p align="left">
 <a href="https://www.credly.com/badges/7bf94e57-b678-406b-ba3b-df9e1d793ce4/public_url" target="blank"><img align="left" src="https://github.com/ashokalinux/ashokalinux/blob/main/certificates/cka_from_cncfsite__281_29.png"  alt="cka" width="90" /></a>
 </p>
@@ -54,9 +56,20 @@ Updating soon..
 <a href="https://www.credly.com/badges/056c45b5-8ea6-4f9e-a1f6-5d409320a8f7/public_url" target="blank"><img align="left" src="https://github.com/ashokalinux/ashokalinux/blob/main/certificates/red-hat-certification.png"  alt="redhat" width="180" /></a>
 </p>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+  [![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=ashokalinux&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=ashokalinux&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokalinux)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<br>
+<br>
+<br>
 
