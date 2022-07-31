@@ -53,8 +53,9 @@ Updating soon..
 </p>
 </p>
 <p align="left">
-<a href="https://www.credly.com/badges/056c45b5-8ea6-4f9e-a1f6-5d409320a8f7/public_url" target="blank"><img align="left" src="https://github.com/ashokalinux/ashokalinux/blob/main/certificates/red-hat-certification.png"  alt="redhat" width="180" /></a>
+<a href="https://www.credly.com/badges/056c45b5-8ea6-4f9e-a1f6-5d409320a8f7/public_url" target="blank"><img align="left" src="https://github.com/ashokalinux/ashokalinux/blob/main/certificates/red-hat-certification.png"  alt="redhat" width="150" /></a>
 </p>
+<br>
 <br>
 <br>
 <br>
